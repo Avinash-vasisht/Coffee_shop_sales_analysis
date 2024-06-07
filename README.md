@@ -1,4 +1,4 @@
-# Data_analytics_projects
+# Coffee shop sales Data_analytics_projects
 Coffee Shop Sales
 Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.
 
