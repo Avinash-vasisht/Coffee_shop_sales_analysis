@@ -5,7 +5,9 @@ Coffee Shop Sales Transaction records for Maven Roasters, a fictitious coffee sh
 
 ## Stakeholder Questions
 **Q1. How have Maven Roasters' sales trended over time?**
+
 **Q2. Which days of the week tend to be busiest, and why do you think that's the case?**
+
 **Q3. Which products are sold most and least often? Which drive the most revenue for the business?**
 
 ## Insights
@@ -20,3 +22,19 @@ Diving into product-level details, it’s clear that the Barista Espresso stands
 
 ## Tools Used
 To uncover these insights, I leveraged the powerful combination of Excel and Power Query. Excel allowed me to perform detailed analysis, while Power Query transformed raw data into a structured format, enabling me to extract meaningful patterns and trends.
+
+## Acknowledgements
+- Thanks to Maven analytics for the fictitious dataset.
+
+## Tech
+- Excel
+- Power Query
+
+## Project Screenshots
+https://ibb.co/qjbwMk3
+
+## Lessons Learned
+I learned about data transformation, Power Query, Power Pivot, and finding insights from raw data.
+
+## Github profile
+https://github.com/dashboard
