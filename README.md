@@ -5,9 +5,7 @@ Coffee Shop Sales Transaction records for Maven Roasters, a fictitious coffee sh
 
 ## Stakeholder Questions
 **Q1. How have Maven Roasters' sales trended over time?**
-
 **Q2. Which days of the week tend to be busiest, and why do you think that's the case?**
-
 **Q3. Which products are sold most and least often? Which drive the most revenue for the business?**
 
 ## Insights
