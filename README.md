@@ -31,7 +31,7 @@ To uncover these insights, I leveraged the powerful combination of Excel and Pow
 - Power Query
 
 ## Project Screenshots
-https://ibb.co/qjbwMk3
+![Coffee shop sales](https://github.com/user-attachments/assets/c248d11b-3170-4c0c-80b5-bc15c824c711)
 
 ## Lessons Learned
 I learned about data transformation, Power Query, Power Pivot, and finding insights from raw data.
